@@ -8,7 +8,7 @@ This tutorial outlines the virtual machine creation of the cloud computing platf
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Create A Virtual Machine In Microsoft Azure](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
