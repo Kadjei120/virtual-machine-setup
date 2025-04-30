@@ -72,4 +72,21 @@ After you clicked "Virtual Machine" you should have landed on this page. The nex
 <br />
 <img src="https://imgur.com/4lvo5Uy.png" height="80%" width="80%" alt="Resource Group Creation Steps"/>
 </p>
-You should now be on this page. We can now go ahead and fill in the details for our virtual machine. For "Subscription" please use the appropriate one. For "Resource Group", use the resource group we just created as you can see at number 2 in the image above. For "Virtual Machine Name" as seen at number 3, go ahead and create a name, its perfectly fine if you use the same one as me. Once again, note that spaces arent allowed, so please use a hyphen instead. For "Region" as shown at number 4,i recommend keeping it the same as our resource group, so go ahead and choose "East US 2". For "Image" as shown at number 5, you want to go ahead and choose "Windows 10 Pro", as it is a Windows Virtual Machine that we are creating. For "Size" as seen at number 6, i recommend choosing one with 2vcpus, so go ahead and do that. After, go ahead and create a username and password as shown at number 7. Please make a note of this as you will be needing it later. Once all of this has been completed, go ahead and click "Review + Create" at the bottom of the page.
+You should now be on this page. We can now go ahead and fill in the details for our virtual machine. For "Subscription" please use the appropriate one. For "Resource Group", use the resource group we just created as you can see at number 2 in the image above. For "Virtual Machine Name" as seen at number 3, go ahead and create a name, its perfectly fine if you use the same one as me. Once again, note that spaces arent allowed, so please use a hyphen instead. For "Region" as shown at number 4, i recommend keeping it the same as our resource group, so go ahead and choose "East US 2". For "Image" as shown at number 5, you want to go ahead and choose "Windows 10 Pro", as it is a Windows Virtual Machine that we are creating. For "Size" as seen at number 6, i recommend choosing one with 2vcpus, so go ahead and do that. After, go ahead and create a username and password as shown at number 7. Please make a note of this as you will be needing it later.
+
+<p>
+<br />
+<p align="center">
+<img src="https://imgur.com/Xhip9uH.png" alt="Resource Group Creation Steps" width="500" />
+</p>
+Next, under "Licensing" go ahead and check the box as shown in number 1 in the image above. Once all of this has been completed, go ahead and click "Review + Create" at the bottom of the page.
+<p>
+<p align="center">
+<img src="https://imgur.com/i27RjA0.png" alt="Resource Group Creation Steps" width="500" />
+</p>
+Microsoft Azure will then do its final validation checks. This can take a few minutes so please wait patiently. Once the validation is successful, you can go ahead and click on "create" as shown at number 1 in the image above.
+<p>
+<br />
+<img src="https://imgur.com/jSWc4Qr.png" height="80%" width="80%" alt="Resource Group Creation Steps"/>
+</p>
+The virtual machine is now in the deployment stage. Please wait for it to be deployed, as this can take up to 3mins, so please be patient. Once it has finished being deployed, you will see the message, "Your deployment is complete" as shown at number 1 in the image above. So now that our virtual machine has been created, we can now go back to our virtual machines section in Azure, by typing in the search bar, "Virtual Machine". We can now see that our virtual machine is active and showing, as shown at number 2 in the image above. Your all set! Thanks for using this tutorial, and in our next repository, we will be logging into our Virtual Machine and testing it out. (Soon to come.)
