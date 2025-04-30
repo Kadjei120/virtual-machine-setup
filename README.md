@@ -38,9 +38,7 @@ This tutorial outlines the creation of a virtual machine on the cloud computing 
 <img src="https://imgur.com/IS5yIti.png" height="80%" width="80%" alt="Azure Home Page"/>
 </p>
 <p>
-    <p align="center"><b>Azure Resource Deployment Flow</b><br/>
-A visual overview of the step-by-step process for deploying resources in Microsoft Azure using templates and automation tools.
-</p>
+ 
 So you can go ahead and get logged into your Azure account. Once you are logged in, you will automatically land on the Azure home page. You then want to click on "Resource Groups" as directed by the arrow in the image above. Once you have done that, you will see a blue button which says "+create" which you should click on to proceed.
 </p>
 
