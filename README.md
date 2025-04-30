@@ -14,15 +14,13 @@
 This tutorial outlines the creation of a virtual machine on the cloud computing platform Microsoft Azure .<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Create A Virtual Machine In Microsoft Azure](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Resource Groups)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Microsoft Azure
+- Windows 10
+- Azure Virtual Machines
+- Azure Resource Groups
 
 <h2>Operating Systems Used </h2>
 
